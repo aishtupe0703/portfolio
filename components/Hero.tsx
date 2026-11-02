@@ -18,7 +18,7 @@ export default function Hero() {
           <Link href="/#experience" className="btn-outline">My experience <span aria-hidden="true">↓</span></Link>
         </div>
         <div className="hero-social">
-          <a href="https://github.com/ash-1703" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+          <a href="https://github.com/aishtupe0703" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
           <a href="https://www.linkedin.com/in/aishwarya-tupe/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
           <a href="mailto:aishwaryasambhajitupe@gmail.com">Email ↗</a>
         </div>

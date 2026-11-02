@@ -142,11 +142,11 @@ export default function ChatWidget() {
                 // Open Calendly popup
                 if (typeof window !== "undefined" && (window as any).Calendly) {
                   (window as any).Calendly.initPopupWidget({
-                    url: "https://calendly.com/aishwaryasambhajitupe/15",
+                    url: "https://calendly.com/aishwaryasambhajitupe/30",
                   });
                 } else {
                   // Fallback: open Calendly in a new tab
-                  window.open("https://calendly.com/aishwaryasambhajitupe/15", "_blank");
+                  window.open("https://calendly.com/aishwaryasambhajitupe/30", "_blank");
                 }
                 setChooserOpen(false);
               }}

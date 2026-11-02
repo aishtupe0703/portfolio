@@ -14,7 +14,7 @@ const earlierExperience = [
   {role:"Machine Learning Intern",company:"Pie Infocomm Pvt. Ltd.",period:"Jul – Aug 2021",description:"Used decision trees and data analysis to model COVID-19-era airport traffic, achieving 99.89% reported model accuracy."}
 ];
 const projects = [
-{number:"01",title:"Zealthy Mini EMR",category:"HEALTHCARE / FULL-STACK",kind:"emr" as const,description:"A patient and administrator portal for appointments, prescriptions and medical records.",outcome:"Patient and admin views for everyday care workflows.",tags:["Next.js","TypeScript","Prisma","PostgreSQL"],repo:"https://github.com/ash-1703/mini-emr",demo:"https://zealthy-mini-emr.netlify.app/"},
+{number:"01",title:"Zealthy Mini EMR",category:"HEALTHCARE / FULL-STACK",kind:"emr" as const,description:"A patient and administrator portal for appointments, prescriptions and medical records.",outcome:"Patient and admin views for everyday care workflows.",tags:["Next.js","TypeScript","Prisma","PostgreSQL"],repo:"https://github.com/aishtupe0703/mini-emr",demo:"https://zealthy-mini-emr.netlify.app/"},
 {number:"02",title:"InsightAgent",category:"APPLIED AI / RAG",kind:"rag" as const,description:"A retrieval-augmented assistant grounding responses in supporting source documents.",outcome:"Document retrieval, grounding and evaluation.",tags:["Python","LangChain","RAG","LLM Evaluation"]},
 {number:"03",title:"AutoAnnotate",category:"AI / DATA",kind:"annotate" as const,description:"An AI-assisted dataset annotation workflow with human review.",outcome:"AI pre-labeling paired with quality control.",tags:["React","FastAPI","MongoDB","AI"]}
 ];
@@ -91,7 +91,7 @@ export default function Page() {
         <p className="section-eyebrow">06 / LET'S CONNECT</p>
         <h2 className="section-heading mt-4">Let's build something meaningful.</h2>
         <p className="muted-text mx-auto mt-4 max-w-xl text-sm leading-7">Open to software engineering roles and collaborations. Especially curious about technology that makes a positive impact.</p>
-        <div className="mt-7 flex flex-wrap justify-center gap-3"><a className="btn" href="mailto:aishwaryasambhajitupe@gmail.com">Say hello ↗</a><a className="btn-outline" href="https://www.linkedin.com/in/aishwarya-tupe/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a><a className="btn-outline" href="https://github.com/ash-1703" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
+        <div className="mt-7 flex flex-wrap justify-center gap-3"><a className="btn" href="mailto:aishwaryasambhajitupe@gmail.com">Say hello ↗</a><a className="btn-outline" href="https://www.linkedin.com/in/aishwarya-tupe/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a><a className="btn-outline" href="https://github.com/aishtupe0703" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
       </div>
     </section>
   </div>;
